@@ -4,4 +4,6 @@
 
 <p>It is a static page. The page code is written is HTML and in Java Script</p>
 
+#for better understanding open the files
+
 ![Image of GroceryList](https://github.com/jillellamudisurya/Java_Script_Projects/blob/main/Result%20Images/Grocery%20list.jpg)
