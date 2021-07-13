@@ -1,5 +1,7 @@
 <h1>To Do Tasks Web Application</h1>
 
+<h4>It is used to add tasks that someone want to do</h4>
+
 ![Image of TodoTask1](https://github.com/jillellamudisurya/Java_Script_Projects/blob/main/Result%20Images/ToDo%20Task%201.jpg)
 
 ![Image of TodoTask2](https://github.com/jillellamudisurya/Java_Script_Projects/blob/main/Result%20Images/ToDo%20Task%202.jpg)
