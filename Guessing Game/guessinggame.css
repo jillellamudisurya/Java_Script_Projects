@@ -1,0 +1,48 @@
+.mainbackground{
+	background-color: white;
+	text-align: center;
+}
+.topimage{
+	height: 30vh;
+}
+.middletext{
+	font-weight: bold;
+	font-size: 34px;
+}
+.boxdiv{
+	background-color: blue;
+	width: 500px;
+	margin: auto;
+}
+.bottomimage{
+	height: 50px;
+}
+.bottomheading{
+	font-weight: bold;
+	color: white;
+	font-weight: bold;
+	font-size: 50px;
+}
+.user-input{
+	font-weight: 500;
+	font-size: 30px;
+	color: #1f2933;
+	padding: 10px;
+	text-align: center;
+}
+.buttoncheck{
+	width: 150px;
+	height: 50px;
+	margin: 10px;
+	color: white;
+	background-color: skyblue;
+	font-weight: bold;
+	font-size: 24px;
+	border-radius: 20px;
+}
+.gameresult{
+	font-size: 24px;
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+}
